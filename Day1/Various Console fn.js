@@ -1,4 +1,4 @@
-//alert  ('Lets Upgrade-Assignment Day 1')
+alert  ('Lets Upgrade-Assignment Day 1')
 
 
 console.log ("Hey you cannot see me on the browser coz I am here")
